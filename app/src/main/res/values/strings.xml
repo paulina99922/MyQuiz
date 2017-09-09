@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="quiz_name">Nutrition Quiz</string>
+    <string name="question1">1. People who do not eat meat and animal products are called:</string>
+    <string name="answer1a">vegetarians</string>
+    <string name="answer1b">pescetarians</string>
+    <string name="answer1c">vegans</string>
+    <string name="question2">2. People suffering from anemia have a deficiency of:</string>
+    <string name="answer2a">fiber</string>
+    <string name="answer2b">iron</string>
+    <string name="answer2c">minerals</string>
+    <string name="answer2d">carbohydrates</string>
+    <string name="question3">3. Ascorbic acid is another
+        name:</string>
+    <string name="answer3a">vitamin C</string>
+    <string name="answer3b">vitamin K</string>
+    <string name="answer3c">vitamin B12</string>
+    <string name="answer3d">vitamin A</string>
+    <string name="question4">4. Which eating disorder concerns pregnant women?</string>
+    <string name="answer4a">BED</string>
+    <string name="answer4b">anorexia</string>
+    <string name="answer4c">pregorexia</string>
+    <string name="answer4d">bulimia</string>
+    <string name="question5">5. Carrots are a great source of:</string>
+    <string name="answer5a">vitamin A</string>
+    <string name="answer5b">vitamin C</string>
+    <string name="answer5c">vitamin K</string>
+    <string name="question6">6. Proteins can be found in products such as eggs, nuts and meat</string>
+    <string name="answer6a">true</string>
+    <string name="answer6b">false</string>
+    <string name="question7">7. Healthy diet has a positive impact on our health</string>
+    <string name="answer7a">true</string>
+    <string name="answer7b">false</string>
+    <string name="question8">8. How much water should we drink a day?</string>
+    <string name="answer8a">1l</string>
+    <string name="answer8b">2l</string>
+    <string name="answer8c">0,5l</string>
+    <string name="answer8d">5l</string>
+    <string name="question9">9. Which of the following is
+        not a food group? Select two."</string>
+    <string name="answer9a">dairy products</string>
+    <string name="answer9b">fruit</string>
+    <string name="answer9c">lipids</string>
+    <string name="answer9d">vegetables</string>
+    <string name="answer9e">sodium</string>
+    <string name="question10">10. Carbohydrates are
+        unnecessary in our diet. Write in the
+        answer true or false.</string>
+    <string name="submit">Submit</string>
+</resources>
